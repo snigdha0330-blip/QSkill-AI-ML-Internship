@@ -17,4 +17,4 @@ This project classifies SMS messages as Spam or Ham using Machine Learning.
 SMS Spam Collection Dataset
 
 ## Author
-Your Name
+Snigdha P
